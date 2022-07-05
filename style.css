@@ -219,6 +219,21 @@ body{
     color: #383636;
 
 }
+
+/* news button  */
+.more_button{
+    text-align: center;
+}
+.more_button button{
+    padding: 15px 25px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background: #FF5959;
+    font-size: 20px;
+    margin-top: 40px;
+}
+/* news button  */
 /* my own added section */
 
 
